@@ -1,0 +1,56 @@
+# .NET Core y .NET
+bin/
+obj/
+**/*.suo
+**/*.user
+**/*.userosscache
+**/*.sln.docstates
+**/*.vspscc
+.vscode/
+
+# Directorio del paquete NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Configuración de Visual Studio
+.vs/
+.vscode/
+*.code-workspace
+
+# Configuración de Rider
+.idea/
+*.sln.iml
+
+# Logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de depuración y publicación
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Local.json
+
+# Publicación
+publish/
+out/
+
+# Carpetas de Build
+Properties/launchSettings.json
+
+# Archivos temporales y de respaldo
+*.tmp
+*.bak
+*.old
+*.backup
+*.orig
+*.rej
+
+# Archivos generados por Docker
+**/[Dd]ocker*
