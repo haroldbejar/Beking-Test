@@ -1,0 +1,15 @@
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\bin\Debug\net8.0\ProductManagementApp.Infrastructure.deps.json
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\bin\Debug\net8.0\ProductManagementApp.Infrastructure.dll
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\bin\Debug\net8.0\ProductManagementApp.Infrastructure.pdb
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\bin\Debug\net8.0\ProductManagementApp.Domain.dll
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\bin\Debug\net8.0\ProductManagementApp.Domain.pdb
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\obj\Debug\net8.0\ProductManagementApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\obj\Debug\net8.0\ProductManagementApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\obj\Debug\net8.0\ProductManagementApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\obj\Debug\net8.0\ProductManagementApp.Infrastructure.AssemblyInfo.cs
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\obj\Debug\net8.0\ProductManagementApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\obj\Debug\net8.0\ProductM.E8363933.Up2Date
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\obj\Debug\net8.0\ProductManagementApp.Infrastructure.dll
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\obj\Debug\net8.0\refint\ProductManagementApp.Infrastructure.dll
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\obj\Debug\net8.0\ProductManagementApp.Infrastructure.pdb
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Infrastructure\obj\Debug\net8.0\ref\ProductManagementApp.Infrastructure.dll

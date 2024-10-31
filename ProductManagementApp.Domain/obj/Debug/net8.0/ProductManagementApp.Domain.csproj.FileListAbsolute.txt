@@ -1,0 +1,12 @@
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Domain\bin\Debug\net8.0\ProductManagementApp.Domain.deps.json
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Domain\bin\Debug\net8.0\ProductManagementApp.Domain.dll
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Domain\bin\Debug\net8.0\ProductManagementApp.Domain.pdb
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Domain\obj\Debug\net8.0\ProductManagementApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Domain\obj\Debug\net8.0\ProductManagementApp.Domain.AssemblyInfoInputs.cache
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Domain\obj\Debug\net8.0\ProductManagementApp.Domain.AssemblyInfo.cs
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Domain\obj\Debug\net8.0\ProductManagementApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Domain\obj\Debug\net8.0\ProductManagementApp.Domain.dll
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Domain\obj\Debug\net8.0\refint\ProductManagementApp.Domain.dll
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Domain\obj\Debug\net8.0\ProductManagementApp.Domain.pdb
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Domain\obj\Debug\net8.0\ref\ProductManagementApp.Domain.dll
+C:\Users\harol\OneDrive\Escritorio\BeKing-Test\ProductManagementApp\ProductManagementApp.Domain\obj\Debug\net8.0\ProductManagementApp.Domain.csproj.AssemblyReference.cache
